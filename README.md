@@ -1,2 +1,3 @@
 # Hello-world
 my first repository
+I am a creative and enthusiastic physicist with a Master's and Ph. D. in Materials Science. I have over four years’ experience in scientific research, preparation and characterization of materials at nanometric scale, carrying out experiments and writing technical reports. I possess excellent analytical and communications skills and a dedicated approach to working in a highly controlled environment. I am currently looking for a challenging opportunity in materials research for applications in the industrial sector or within the field of applied physics. I have recently ventured into the field of data science and I am learning how to analyze and work within this wonderful subject.
